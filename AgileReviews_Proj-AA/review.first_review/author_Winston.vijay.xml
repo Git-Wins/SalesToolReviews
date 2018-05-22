@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<de:comments xmlns:de="http://de.tukl.softech.agileReview">
+  <de:author name="Winston.vijay"/>
+  <de:files>
+    <de:project name="SalesTool">
+      <de:folder name="src">
+        <de:folder name="main">
+          <de:folder name="java">
+            <de:folder name="gitWorks">
+              <de:file name="SalesData.java">
+                <de:comment id="c0" author="Winston.vijay" reviewID="first_review" creation-date="2018-05-22T12:23:06.027+05:30" last-modified="2018-05-22T12:25:21.906+05:30" priority="0" recipient="The Developer" status="0" revision="0">
+                  <de:text>Pls create a bigger array with at least 10 elements in it</de:text>
+                  <de:replies/>
+                </de:comment>
+              </de:file>
+            </de:folder>
+          </de:folder>
+        </de:folder>
+      </de:folder>
+    </de:project>
+  </de:files>
+</de:comments>
