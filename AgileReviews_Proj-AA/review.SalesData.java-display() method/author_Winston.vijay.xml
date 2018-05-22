@@ -8,9 +8,11 @@
           <de:folder name="java">
             <de:folder name="gitWorks">
               <de:file name="SalesData.java">
-                <de:comment id="c0" author="Winston.vijay" reviewID="SalesData.java-display() method" creation-date="2018-05-22T14:45:24.060+05:30" last-modified="2018-05-22T15:56:21.563+05:30" priority="0" recipient="The Developer" status="0" revision="0">
+                <de:comment id="c0" author="Winston.vijay" reviewID="SalesData.java-display() method" creation-date="2018-05-22T14:45:24.060+05:30" last-modified="2018-05-22T16:50:35.021+05:30" priority="0" recipient="The Developer" status="2" revision="0">
                   <de:text>improvise the comment and update me ASAP</de:text>
-                  <de:replies/>
+                  <de:replies>
+                    <de:reply author="Winston.vijay" creation-date="2018-05-22T16:50:12.871+05:30">updated man</de:reply>
+                  </de:replies>
                 </de:comment>
               </de:file>
             </de:folder>
