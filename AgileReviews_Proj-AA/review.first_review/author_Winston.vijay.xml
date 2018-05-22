@@ -8,9 +8,11 @@
           <de:folder name="java">
             <de:folder name="gitWorks">
               <de:file name="SalesData.java">
-                <de:comment id="c0" author="Winston.vijay" reviewID="first_review" creation-date="2018-05-22T12:23:06.027+05:30" last-modified="2018-05-22T12:25:21.906+05:30" priority="0" recipient="The Developer" status="0" revision="0">
+                <de:comment id="c0" author="Winston.vijay" reviewID="first_review" creation-date="2018-05-22T12:23:06.027+05:30" last-modified="2018-05-22T12:56:12.687+05:30" priority="0" recipient="The Developer" status="0" revision="0">
                   <de:text>Pls create a bigger array with at least 10 elements in it</de:text>
-                  <de:replies/>
+                  <de:replies>
+                    <de:reply author="Winston.vijay" creation-date="2018-05-22T12:56:12.687+05:30">I think 5 wud be better-hence modified the code</de:reply>
+                  </de:replies>
                 </de:comment>
               </de:file>
             </de:folder>
